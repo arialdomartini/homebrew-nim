@@ -6,3 +6,7 @@ Nim distributed as homebrew binary for OS X. Nim's official repository is at htt
 
     brew tap arialdomartini/nim
     brew install nim
+
+# Uninstall
+    brew uninstall nim
+    brew untap arialdomartini/nim

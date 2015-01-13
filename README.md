@@ -2,7 +2,7 @@
 Nim [homebrew](http://brew.sh) source release for OS X. Nim's official repository is at https://github.com/Araq/Nim
 
 
-# Binary installatoin
+# Installatoin
 
     brew tap arialdomartini/nim
     brew install nim
